@@ -1,12 +1,56 @@
+
+
+@font-face {
+    font-family: Sajat betutipus;
+    src: url(/fonts/fonts/Oswald/static/Oswald-Bold.ttf);
+    font-weight: 100;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
 h1 {
-    color: red; font-size: 48px; font-style: italic;
-    
+    color: rgb(255, 19, 19);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-transform: uppercase; 
+    font-weight: bolder;
     }
+
+
+h3 {
+font-family: Sajat betutipus; 
+color: red;
+}
+
+#bla {
+color: black;
+
+}
+
+#masik {
+color: blue;
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+p {
+
+text-align: justify;
+text-transform: capitalize;
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+
 
 img {
 
 width: 250px;
-margin: 25px;
-margin-top: 100px;
+
 
 }    
